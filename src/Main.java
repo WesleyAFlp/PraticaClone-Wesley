@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Bem vindo à pratica de clone do Wesley e do Hudson!");
+        System.out.println("Tudo ok");
     }
 }
